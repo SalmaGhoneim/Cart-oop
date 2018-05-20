@@ -4,7 +4,7 @@
   "description": "mini-cart project using ES6 and testing with mocha",
   "main": "cart.js",
   "scripts": {
-    "test": "mocha ./cart.test.js"
+    "test": "gulp && mocha ./build/cart.test.js"
   },
   "keywords": [],
   "author": "Salma Ghoneim",
