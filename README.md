@@ -1,4 +1,4 @@
-# Dreidev_cart
+# Cart-oop
 Object Oriented JavaScript - a mini cart.
 
 USING some ES6 features may cause problems in running the classes.
